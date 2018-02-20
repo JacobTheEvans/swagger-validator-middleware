@@ -1,0 +1,13 @@
+{
+  "name": "swagger-validator-middleware",
+  "version": "0.0.5",
+  "description": "Swagger 2.0 validation for restify",
+  "main": "index.js",
+  "repository": "https://github.com/JacobTheEvans/swagger-validator-middleware",
+  "author": "Jacob Evans",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "swagger-parser": "^4.0.2",
+    "yamljs": "^0.3.0"
+  }
+}
